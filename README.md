@@ -1,4 +1,4 @@
-I will be doing Exploratory Data Analysis on the dataset taken from kaggle by Cardekho
+This Exploratory Data Analysis on the dataset taken from kaggle by Cardekho
 
 link to the dataset -> https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
 
